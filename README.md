@@ -25,8 +25,8 @@ Detectron2 did **Object Detection**: Identifying and localizing objects with bou
 The Code also save the _Binary Predicted Mask_ for all 6 classes of each image in the test set.
 
 _eg, all the Segmented Masks of a single random test image_
-_
-**Erythrocytes**_
+
+_**Erythrocytes**_
 
 ![test_BloodImage_61_Red Blood Cells_result](https://github.com/arpsn123/Detectron2-HemaDetect-Blood-Cell-Segmentation-and-Detection/assets/112195431/86aeba5c-d758-4a52-980d-7ae5101ebf8f)
 
