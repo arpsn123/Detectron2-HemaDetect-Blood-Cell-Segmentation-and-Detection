@@ -115,6 +115,49 @@ The implementation not only identifies the cells but also saves the **Binary Pre
 
 ![test_BloodImage_61_Basophilic Stippling_result](https://github.com/arpsn123/Detectron2-HemaDetect-Blood-Cell-Segmentation-and-Detection/assets/112195431/72ef0f16-f9ac-4dc4-85ac-d6a1775277e8)
 
+## Installation Guide
+
+Follow these steps to set up the project in your local environment:
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/arpsn123/Detectron2-HemaDetect-Blood-Cell-Segmentation-and-Detection.git
+   cd Detectron2-HemaDetect-Blood-Cell-Segmentation-and-Detection
+   ```
+
+2. **Set Up a Python Virtual Environment (Recommended):**
+
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # For Windows use `venv\Scripts\activate`
+   ```
+
+3. **Install Required Dependencies:**
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Install Detectron2:**
+
+   For installation instructions, refer to the official [Detectron2 installation guide](https://detectron2.readthedocs.io/en/latest/tutorials/install.html). Make sure to select the appropriate installation command based on your environment and CUDA version.
+
+
+## Results
+
+The results showcase the model's capabilities in accurately detecting and segmenting blood cells. Performance metrics such as **mean Average Precision (mAP)** and **Intersection over Union (IoU)** will be reported in the final analysis to quantify the model's effectiveness.
+
+## Contributing
+
+Contributions are welcome! If you wish to improve this project or report issues, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Commit your changes and push to your branch.
+4. Open a pull request for review.
+
+
 ## Conclusion
 
 This project not only highlights the powerful capabilities of Detectron2 in managing complex biological imaging tasks but also establishes a valuable resource for further research and development in medical image analysis. The insights gained from this analysis can significantly enhance the understanding of hematological conditions and improve diagnostic accuracy, ultimately contributing to better patient outcomes in clinical settings.
