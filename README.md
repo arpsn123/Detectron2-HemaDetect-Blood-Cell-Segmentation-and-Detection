@@ -1,10 +1,17 @@
 # Detectron2-HemaDetect-Blood-Cell-Segmentation-and-Detection
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-[![Detectron2](https://img.shields.io/badge/Detectron2-v0.6.1-blue)](https://github.com/facebookresearch/detectron2)
-[![OpenCV](https://img.shields.io/badge/OpenCV-4.5.3-orange)](https://opencv.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-1.19.5-red)](https://numpy.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-1.2.3-orange)](https://pandas.pydata.org/)
+![GitHub Repo Stars](https://img.shields.io/github/stars/arpsn123/Detectron2-HemaDetect-Blood-Cell-Segmentation-and-Detection?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/arpsn123/Detectron2-HemaDetect-Blood-Cell-Segmentation-and-Detection?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/arpsn123/Detectron2-HemaDetect-Blood-Cell-Segmentation-and-Detection)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/arpsn123/Detectron2-HemaDetect-Blood-Cell-Segmentation-and-Detection)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/arpsn123/Detectron2-HemaDetect-Blood-Cell-Segmentation-and-Detection)
+![GitHub Contributors](https://img.shields.io/github/contributors/arpsn123/Detectron2-HemaDetect-Blood-Cell-Segmentation-and-Detection)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/arpsn123/Detectron2-HemaDetect-Blood-Cell-Segmentation-and-Detection)
+![GitHub Language Count](https://img.shields.io/github/languages/count/arpsn123/Detectron2-HemaDetect-Blood-Cell-Segmentation-and-Detection)
+![GitHub Top Language](https://img.shields.io/github/languages/top/arpsn123/Detectron2-HemaDetect-Blood-Cell-Segmentation-and-Detection)
+![GitHub Watchers](https://img.shields.io/github/watchers/arpsn123/Detectron2-HemaDetect-Blood-Cell-Segmentation-and-Detection?style=social)
+![Maintenance Status](https://img.shields.io/badge/Maintenance-%20Active-green)
+
 
 _**HemaDetect offers a cutting-edge approach to blood cell analysis, leveraging the capabilities of Detectron2 alongside advanced computational techniques and state-of-the-art algorithms. This platform is designed to achieve high accuracy in identifying and delineating red blood cells (RBCs), white blood cells (WBCs), and platelets within microscopic blood images, which are crucial for diagnosing various hematological conditions.**_
 
